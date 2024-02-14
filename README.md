@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MajorPhasor (Zach)
 - 👀 I’m interested in Python programming, amateur radio, and a variety of outdoor activities.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on my WhatsApp chat export to HTML project.
 - 📫 How to reach me: email me at my username at outlook dot com
 <!---
 MajorPhasor/MajorPhasor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
